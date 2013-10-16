@@ -1,5 +1,5 @@
 # No Self Pings
-A simple plugin to prevent self-pings, forked from [WPMU](http://wpmu.org/daily-tip-3-ways-to-remove-wordpress-self-pings/).
+A simple plugin to prevent internal links from showing up as pings/trackbacks in your WordPress comments. Forked from [WPMU](http://wpmu.org/daily-tip-3-ways-to-remove-wordpress-self-pings/).
 
 
 ## How It Works
