@@ -3,7 +3,7 @@
 /* ======================================================================
 
 	Plugin Name: No Self Pings
-	Plugin URI: http://cferdinandi.github.io/no-self-pings/
+	Plugin URI: https://github.com/cferdinandi/no-self-pings/
 	Description: Prevents internal links from showing up as pings/trackbacks in your comments.
 	Version: 1.0
 	Author: Chris Ferdinandi
