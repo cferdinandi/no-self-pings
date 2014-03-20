@@ -7,8 +7,9 @@ Link to other articles and pages on your site without having them show-up as tra
 **In This Documentation**
 
 1. [Getting Started](#getting-started)
-2. [License](#license)
-3. [Changelog](#changelog)
+2. [How to Contribute](#how-to-contribute)
+3. [License](#license)
+4. [Changelog](#changelog)
 
 
 
@@ -20,6 +21,12 @@ Getting started with No Self-Pings is as simple as installing a plugin:
 2. Activate the plugin through the Plugins menu in WordPress.
 
 And that's it, you're done. Nice work!
+
+
+
+## How to Contribute
+
+In lieu of a formal style guide, take care to maintain the existing coding style. Don't forget to update the version number, the changelog (in the `readme.md` file), and when applicable, the documentation.
 
 
 
