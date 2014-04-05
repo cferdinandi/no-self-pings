@@ -4,6 +4,8 @@ A simple plugin to prevent internal links from showing up as pings/trackbacks in
 
 Link to other articles and pages on your site without having them show-up as trackbacks or pings in your comments. Forked from [WPMU](http://wpmu.org/daily-tip-3-ways-to-remove-wordpress-self-pings/).
 
+[Download No Self-Pings](https://github.com/cferdinandi/no-self-pings/archive/master.zip)
+
 **In This Documentation**
 
 1. [Getting Started](#getting-started)
