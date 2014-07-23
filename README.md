@@ -1,5 +1,7 @@
 # No Self-Pings
 
+***Note:*** *The [`wp_list_comments` function](http://codex.wordpress.org/Function_Reference/wp_list_comments) makes this plugin unneccessary. It is no longer maintained or supported.*
+
 A simple plugin to prevent internal links from showing up as pings/trackbacks in your WordPress comments.
 
 Link to other articles and pages on your site without having them show-up as trackbacks or pings in your comments. Forked from [WPMU](http://wpmu.org/daily-tip-3-ways-to-remove-wordpress-self-pings/).
