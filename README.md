@@ -42,5 +42,7 @@ No Self-Pings is licensed under the [MIT License](http://gomakethings.com/mit/).
 
 ## Changelog
 
+No Self-Pings uses [semantic versioning](http://semver.org/).
+
 * v1.0.0 - October 16, 2013
 	* Initial release.
