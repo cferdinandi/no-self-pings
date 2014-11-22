@@ -42,5 +42,5 @@ No Self-Pings is licensed under the [MIT License](http://gomakethings.com/mit/).
 
 ## Changelog
 
-* v1.0 - October 16, 2013
+* v1.0.0 - October 16, 2013
 	* Initial release.
