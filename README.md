@@ -13,7 +13,6 @@ Link to other articles and pages on your site without having them show-up as tra
 1. [Getting Started](#getting-started)
 2. [How to Contribute](#how-to-contribute)
 3. [License](#license)
-4. [Changelog](#changelog)
 
 
 
@@ -37,12 +36,3 @@ In lieu of a formal style guide, take care to maintain the existing coding style
 ## License
 
 No Self-Pings is licensed under the [MIT License](http://gomakethings.com/mit/).
-
-
-
-## Changelog
-
-No Self-Pings uses [semantic versioning](http://semver.org/).
-
-* v1.0.0 - October 16, 2013
-	* Initial release.
